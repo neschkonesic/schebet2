@@ -114,11 +114,11 @@ const Home: FunctionComponent<Home> = ({ data }) => {
   const recentPostData: PostSnippet[] = data.recentPosts.edges.map(mapPostData);
   return (
     <>
-      <SEO title="Home" image="/logo.png"/>
+      <SEO title="Шебет" image="/logo.png"/>
       <Layout>
         <FeaturePosts featurePosts={featuredPostData} />
         <RecentPosts recentPosts={recentPostData} />
-        <Pagination next="/page/2" />
+        <Pagination next="/страница/2" />
       </Layout>
     </>
   );
