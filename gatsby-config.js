@@ -1,6 +1,6 @@
 const siteName = "Шебет";
 const siteShortName = "Шебет село";
-const siteUrl = "https://geek.sg/";
+const siteUrl = "https://schebet-zaplanje.netlify.app/";
 const siteDescription = "сајт о селу Шебет";
 const siteKeyword = "Шебет";
 const siteLogo = "logo.png";
