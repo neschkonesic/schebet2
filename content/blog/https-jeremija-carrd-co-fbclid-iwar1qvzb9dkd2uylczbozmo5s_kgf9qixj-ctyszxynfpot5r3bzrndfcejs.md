@@ -3,7 +3,7 @@ template: blog-post
 title: Некад Јеремија
 publishedDate: 2022-09-02T15:28:05.841Z
 description: Некад Јеремија
-featured: false
+featured: true
 img: ../../static/images/canon-powershot-a4601772.jpg
 imgAlt: Некад Јеремија
 tags:
