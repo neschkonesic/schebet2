@@ -125,7 +125,7 @@ export const NotFound: FunctionComponent = () => {
                       htmlFor="phone"
                       className="block text-sm font-medium leading-5 text-gray-700"
                     >
-                      број телефона
+                      број телефона:
                     </label>
                     <span className="text-sm leading-5 text-gray-500">
                       није обавезно
