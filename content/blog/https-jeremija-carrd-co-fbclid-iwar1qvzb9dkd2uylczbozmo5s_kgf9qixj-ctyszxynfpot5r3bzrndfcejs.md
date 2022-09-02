@@ -9,4 +9,4 @@ imgAlt: Некад Јеремија
 tags:
   - jeremija
 ---
-[2022 Јеремија](https://jeremija.carrd.co/?fbclid=IwAR1qVzb9Dkd2uYLczbOzmo5S_KgF9QiXj-CtYsZXYNfPOT5r3BzRndfcEJs)
+I sada 14-tog maja pogledaj na link...[ 2022 Јеремија](https://jeremija.carrd.co/?fbclid=IwAR1qVzb9Dkd2uYLczbOzmo5S_KgF9QiXj-CtYsZXYNfPOT5r3BzRndfcEJs)
