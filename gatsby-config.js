@@ -1,9 +1,9 @@
 const siteName = "Шебет";
 const siteShortName = "Шебет село";
-const siteUrl = "https://schebet-zaplanje.netlify.app/";
+const siteUrl = "https://schebet-zaplanje.netlify.app";
 const siteDescription = "сајт о селу Шебет";
 const siteKeyword = "Шебет";
-const siteLogo = "logo.png";
+const siteLogo = "šebet.png";
 const siteLogoFolder = `static/${siteLogo}`;
 
 module.exports = {

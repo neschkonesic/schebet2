@@ -22,7 +22,8 @@ const footer = {
   copyrightOwner: "село Шебет",
   linkedin: "https://www.linkedin.com/in/raymondyeh/",
   github: "https://github.com/yehjxraymond",
-  instagram: "https://www.instagram.com/geek.sg/",
+  instagram: "https://www.instagram.com/scherbetbezr/",
+  facebook: "https://www.facebook.com/serbetbezr/"
 };
 
 export const Layout: FunctionComponent = ({ children }) => {
