@@ -20,9 +20,7 @@ const menuItems: MenuItem[] = [
 
 const footer = {
   copyrightOwner: "село Шебет",
-  linkedin: "https://www.linkedin.com/in/raymondyeh/",
-  github: "https://github.com/yehjxraymond",
-  instagram: "https://www.instagram.com/scherbetbezr/",
+   instagram: "https://www.instagram.com/scherbetbezr/",
   facebook: "https://www.facebook.com/serbetbezr/"
 };
 
