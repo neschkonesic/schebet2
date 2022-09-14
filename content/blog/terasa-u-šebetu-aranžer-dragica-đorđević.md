@@ -9,6 +9,5 @@ imgAlt: Terasa u Šebetu
 tags:
   - šebet
   - terasa
-  - ""
 ---
 Terasa u Šebetu
